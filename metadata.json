@@ -1,0 +1,6 @@
+{
+  "name": "Ghufran King Unban Tool Pro",
+  "description": "WhatsApp account review request and support appeal generator with multi-language templates, theme switcher, and direct support links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
